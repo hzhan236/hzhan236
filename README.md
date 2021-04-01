@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @hzhan236
+- 👋 Hi, I’m @Lyzzz
 - 🌱 I’m currently learning spring MVC 
 - 📫 How to reach me: hzhan236@gmail.com
 
