@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Haiming, a applied math master student just graduated from UW recently. @Lyzzz
-- 🌱 I’m currently looking for sde jobs, and trying my best to learn more technologies. Love coding.
+- 👋 Hi, I’m Haiming, an applied math master student just graduated from UW recently. @Lyzzz
+- 🌱 I’m currently looking for sde jobs, and trying my best to learn more technologies AMAP. Love coding more than my girl friend (:-( Which I don't have).
 - Currently working on Spring framework projects. Next thing in my mind is to learn Django. Build a Twitter backend system. 
 - 📫 How to reach me: hzhan236@gmail.com
 
