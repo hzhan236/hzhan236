@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Haiming, an applied math master student just graduated from UW recently. @Lyzzz
-- 🌱 I’m currently looking for sde jobs, and trying my best to learn more technologies AMAP. Love coding more than my girl friend (:-( Maybe that's why I'm single).
+- 👋 Hi, I’m Haiming, an applied math master student just graduated from UW recently.
+- 🌱 I’m currently looking for sde jobs, and trying my best to learn more technologies AMAP. 
 - Currently working on Twitter backend system using Django.
-- 📫 How to reach me: hzhan236@gmail.com
+- 📫 How to reach me: zhanghaiming6@sina.com
 
 <!---
 hzhan236/hzhan236 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
